@@ -37,7 +37,7 @@ Here’s a visual walkthrough of the project setup:
    ![Outbound Rule](./screenshots/Outbound_Rule.png)
 
 4. **Self-Hosted Runner Registered on GitHub**  
-   ![Self-Hosted Runner](./screenshots/self-hosted runner .png)
+   ![Self-Hosted Runner](./screenshots/self-hosted_runner.png)
 
 5. **Action-Runner Directory in EC2**  
    ![Action Runner Directory](./screenshots/Action-runner_Directory.png)
