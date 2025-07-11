@@ -8,9 +8,9 @@ I'm following the **Zero to Hero DevOps course** by *Abhishek Veeramalla* on You
 ## 📅 Weekly Progress
 
 ### ✅ Week 1:
-- DevOps fundamentals
-- AWS EC2 creation & CLI
-- Linux & Shell scripting basics
+- DevOps fundamentals  
+- AWS EC2 creation & CLI  
+- Linux & Shell scripting basics  
 - Real-world AWS project using shell scripting  
 🔗 [Project Folder](./Project) | [Scripts Folder](./Shell%20Scripts)
 
@@ -44,37 +44,55 @@ I'm following the **Zero to Hero DevOps course** by *Abhishek Veeramalla* on You
 
 ---
 
+### ✅ Week 4:
+- What is CI/CD? | How CI/CD Works – Deep dive into the foundations  
+- Jenkins ZERO to HERO – 3 Projects + Docker Agent + Interview Prep  
+- GitHub Actions vs Jenkins – Real-world projects & self-hosted runners  
+- CI/CD Interview Questions – In-depth Q&A GitHub Repository  
+- Project Management Tools for DevOps – JIRA, Agile, Scrum, and what DevOps Engineers do in Week 1!  
+🧠 Key Focus: *A true DevOps mindset isn't just about automation—it's about visibility, agility, and continuous improvement across the pipeline.*  
+📁 Resources:  
+  - [Week4/Jenkins](./Week4/Jenkins)  
+  - [Week4/GitHub-Actions](./Week4/GitHub-Actions)  
+  - [Week4/JIRA-Agile](./Week4/JIRA-Agile)
+
+---
+
 ## 🛠️ Tools & Technologies
 
-- AWS (EC2, CLI, S3, IAM)
-- Linux (Ubuntu)
-- Bash & Shell Scripting
-- Git & GitHub
-- Ansible
-- Terraform
+- AWS (EC2, CLI, S3, IAM)  
+- Linux (Ubuntu)  
+- Bash & Shell Scripting  
+- Git & GitHub  
+- Ansible  
+- Terraform  
+- Jenkins  
+- GitHub Actions  
+- JIRA / Agile / Scrum
 
 ---
 
 ## 📂 Repo Structure
 
-- `Week1/` – Fundamentals, EC2, shell scripting basics
-- `Week2/` – Git, GitHub, networking, scripting projects
-- `Week3/` – AWS deployments, Ansible, Terraform
-- `Shell Scripts/` – Utility scripts
-- `Project/` – AWS + scripting integration
+- `Week1/` – Fundamentals, EC2, shell scripting basics  
+- `Week2/` – Git, GitHub, networking, scripting projects  
+- `Week3/` – AWS deployments, Ansible, Terraform  
+- `Week4/` – CI/CD pipelines, Jenkins, GitHub Actions, JIRA  
+- `Shell Scripts/` – Utility scripts  
+- `Project/` – AWS + scripting integration  
 - `README.md` – This file 👀
 
 ---
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn – Ravikant Jadhav](https://www.linkedin.com/in/ravikant-jadhav-5a8351176)
+- 💼 [LinkedIn – Ravikant Jadhav](https://www.linkedin.com/in/ravikant-jadhav-5a8351176)  
 - 🌐 [GitHub – Ravikant199899](https://github.com/Ravikant199899)
 
 ---
 
 ### 🔜 Coming Soon:
-- **Week 4**: Docker, Jenkins, CI/CD Pipeline setup  
-- Kubernetes & Helm  
+- **Week 5**: Docker, Kubernetes, Helm  
 - Monitoring with Prometheus + Grafana  
-- More real-world DevOps projects! 🚀
+- CI/CD with GitLab  
+- Final DevOps capstone project 🚀
