@@ -51,7 +51,7 @@ Here’s a visual walkthrough of the project setup:
 8. **Build Completed Successfully**  
    ![Build Completed](./screenshots/Build_Completed.png)
 
-> 📁 Place all screenshots in a `screenshots/` folder inside your repo.
+
 
 ---
 
