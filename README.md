@@ -58,6 +58,33 @@ I'm following the **Zero to Hero DevOps course** by *Abhishek Veeramalla* on You
 
 ---
 
+### ✅ Week 5:
+- Docker Volumes vs Bind Mounts — persistent data storage in containers  
+- Docker Networking — Bridge vs Host vs Overlay  
+- Docker Compose — multi-container management simplified  
+- Jenkins CI/CD — pipeline with Docker agent and GitHub integration  
+- GitHub Actions — workflow creation, secrets, job/step design  
+🧠 Key Focus: *Hands-on CI/CD implementation using both Jenkins and GitHub Actions*  
+📁 Resources:  
+  - [Week_5/Docker](./Week_5/Docker)  
+  - [Week_5/Jenkins-Zero-to-Hero](./Week_5/Jenkins-Zero-to-Hero)  
+  - [Week_5/GitHub_Actions](./Week_5/GitHub_Actions)  
+  - [Week_5/DockerCompose](./Week_5/DockerCompose)
+
+---
+
+### ✅ Week 6:
+- Dockerfile — containerizing Node.js apps  
+- Docker Build and Push Workflow  
+- DockerHub Integration and Image Tagging  
+- Docker Interview Questions — real-world prep  
+🧠 Key Focus: *Production-level containerization and Docker deployment pipelines*  
+📁 Resources:  
+  - [Week_6/Dockerfile](./Week_6/Dockerfile)  
+  - [Week_6/README.md](./Week_6/README.md)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - AWS (EC2, CLI, S3, IAM)  
@@ -68,16 +95,20 @@ I'm following the **Zero to Hero DevOps course** by *Abhishek Veeramalla* on You
 - Terraform  
 - Jenkins  
 - GitHub Actions  
+- Docker  
+- Docker Compose  
 - JIRA / Agile / Scrum
 
 ---
 
 ## 📂 Repo Structure
 
-- `Week1/` – Fundamentals, EC2, shell scripting basics  
-- `Week2/` – Git, GitHub, networking, scripting projects  
-- `Week3/` – AWS deployments, Ansible, Terraform  
-- `Week4/` – CI/CD pipelines, Jenkins, GitHub Actions, JIRA  
+- `Week_1/` – Fundamentals, EC2, shell scripting basics  
+- `Week_2/` – Git, GitHub, networking, scripting projects  
+- `Week_3/` – AWS deployments, Ansible, Terraform  
+- `Week_4/` – CI/CD pipelines, Jenkins, GitHub Actions, JIRA  
+- `Week_5/` – Docker, GitHub Actions, Jenkins pipelines  
+- `Week_6/` – Dockerfile, build-push workflow, DockerHub  
 - `Shell Scripts/` – Utility scripts  
 - `Project/` – AWS + scripting integration  
 - `README.md` – This file 👀
@@ -92,7 +123,7 @@ I'm following the **Zero to Hero DevOps course** by *Abhishek Veeramalla* on You
 ---
 
 ### 🔜 Coming Soon:
-- **Week 5**: Docker, Kubernetes, Helm  
+- **Week 7**: Kubernetes, Helm  
 - Monitoring with Prometheus + Grafana  
 - CI/CD with GitLab  
 - Final DevOps capstone project 🚀
