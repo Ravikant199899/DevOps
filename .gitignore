@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.bak
+*.swp
+__pycache__/
+.env
+node_modules/
